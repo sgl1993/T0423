@@ -9,5 +9,6 @@ public class TestGit {
 		System.out.println("gitServer info 01");
 		System.out.println("local info 02");
 		System.out.println("local info 03");
+		System.out.println("local info 04 by local");
 	}
 }
