@@ -7,5 +7,6 @@ public class TestGit {
 		System.out.println("send message to githubservice");
 		System.out.println("sent message to local");
 		System.out.println("gitServer info 01");
+		System.out.println("local info 02");
 	}
 }
